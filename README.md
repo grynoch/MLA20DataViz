@@ -16,3 +16,9 @@ Sally Gore
 Fred LaPolla
 
 **Contact for this repo:** Tess Grynoch, [tess.grynoch@umassmed.edu](mailto:tess.grynoch@umassmed.edu)
+
+**Handouts**
+
+* Immersion Session Resources Handout
+
+* Handout for Data Comics Breakout Session
