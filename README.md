@@ -19,6 +19,6 @@ Fred LaPolla
 
 **Handouts**
 
-* Immersion Session Resources Handout
+* [Immersion Session Resources Handout](https://github.com/grynoch/MLA20DataViz/blob/master/2020-MLA_ImmersionSession_DataViz_Handout_Final.pdf)
 
-* Handout for Data Comics Breakout Session
+* [Handout for Data Comics Breakout Session](https://github.com/grynoch/MLA20DataViz/blob/master/2020-MLA_DataVizImmersionSession_Breakout.pdf)
